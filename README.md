@@ -1,2 +1,5 @@
 # xor_php
-# xor_php
+
+```txt
+docker-compose up
+```
